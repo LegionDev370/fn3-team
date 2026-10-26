@@ -1,0 +1,1 @@
+console.log("Hello world my name is Abduqodir and it`s my firstly commit in fn3 group")
